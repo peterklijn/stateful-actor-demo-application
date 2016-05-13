@@ -1,0 +1,7 @@
+target/
+
+# Sublime specific
+sublime.sbt
+*.sublime
+*.sublime-project
+*.sublime-workspace
